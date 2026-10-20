@@ -1,0 +1,26 @@
+# Client records written by the application: never published
+data/
+CW1-Amortization-Schedule/data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# LaTeX build files (the compiled PDF in docs/ is kept)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Windows / editors
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
